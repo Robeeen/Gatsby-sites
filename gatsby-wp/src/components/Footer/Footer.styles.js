@@ -8,7 +8,7 @@ export const Wrapper = styled.footer`
   background: #212121;
   color: #fff;
   text-align: center;
-  height: 200px;
+  height: 120px;
   font-size: 14px;
 
   p {
