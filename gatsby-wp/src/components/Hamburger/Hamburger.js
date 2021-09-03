@@ -7,4 +7,5 @@ const Hamburger = ({handleOverlayMenu}) => (
         <img src={HamburgerIcon} alt="menu-hamburger"></img>
     </HamburgerButton>
 )
-export default Hamburger;
+
+export default Hamburger

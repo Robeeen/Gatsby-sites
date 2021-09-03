@@ -4,7 +4,7 @@ import Hamburger from '../Hamburger/Hamburger';
 import OverlayMenu from '../OverlayMenu/OverlayMenu';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
-import { Overlay } from '../OverlayMenu/OverlayMenu.styles';
+
 
 const Layout = ({children}) =>{
     const [menuOpen, setMenuOpen] = useState(false);
